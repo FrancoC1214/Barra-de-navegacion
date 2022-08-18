@@ -1,0 +1,51 @@
+*
+{
+    font-family: Sans;
+}
+body
+{
+    background-color: rgb(188, 188, 188);
+}
+@font-face
+{
+    font-family: Sans;
+    src: url(comic.ttf);
+}
+header
+{
+    background-color: rgb(33, 33, 33);
+    color: rgb(220, 221, 221);
+    border: 3px solid transparent;
+    border-image: linear-gradient(to bottom, #ebebeb 0%, #000000 100%) 1;
+}
+#container
+{
+    display: flex;
+}
+.XD
+{
+    width: 67%;
+}
+nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+label
+{
+    font-weight: bold;
+}
+#buttom
+{
+    height: 30px;
+    background-color: #3acfd5;
+    color: aliceblue;
+    border-color: #000;
+    box-shadow: 5px 5px black;
+    font-size: 20px;
+}
+p
+{
+    margin: 3;
+}
