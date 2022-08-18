@@ -1,6 +1,6 @@
 *
 {
-    font-family: Sans;
+    font-family: Roboto;
 }
 body
 {
@@ -8,8 +8,8 @@ body
 }
 @font-face
 {
-    font-family: Sans;
-    src: url(comic.ttf);
+    font-family: Roboto;
+    src: url(Roboto-Regular.ttf);
 }
 header
 {
